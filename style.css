@@ -202,7 +202,7 @@ progress{
     justify-content: space-around;
     align-items: center;
     flex-wrap:wrap;
-    margin-bottom: 20px;
+    
 }
 
 .services-box{
@@ -211,6 +211,7 @@ progress{
     box-shadow: 2px 3px 5px grey;
     padding: 20px;
     margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 .services-box img{
